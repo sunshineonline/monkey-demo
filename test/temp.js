@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         hello  world
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
+// @version      0.2
+// @description  sencond
 // @author       You
 // @license      MIT
 // @match        https://greasyfork.org/zh-CN
